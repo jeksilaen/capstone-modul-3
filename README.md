@@ -6,15 +6,15 @@ Salah satu tantangan utama yang dihadapi perusahaan telekomunikasi Telco adalah 
 
 ### Objectives
 
-1. **Data Understanding**: Menganalisis dataset untuk memahami perilaku pelanggan dan mengidentifikasi fitur kunci yang mempengaruhi churn.
-2. **Data Preparation**: Membuat fitur baru yang dapat meningkatkan kemampuan prediktif model.
-3. **Data Analysis**: Melatih dan mengevaluasi beberapa model klasifikasi, termasuk Naive Bayes, AdaBoost, dan XGBoost, untuk menentukan yang terbaik.
-4. **Model Evaluation**: Menggunakan metrik yang sesuai (seperti recall dan precision) untuk menilai kinerja model, terutama pada kelas yang tidak seimbang.
-5. **Recommendation**: Memberikan rekomendasi berdasarkan hasil evaluasi model untuk meningkatkan strategi retensi pelanggan.
+1. **Data Understanding**: Memahami dataset secara mendalam seperti arti dari setiap kolom dalam konteks bisnis.
+2. **Data Preparation**: Mempersiapkan data dengan membuat fitur baru yang dapat meningkatkan kemampuan prediktif model.
+3. **Data Analysis**: Menganalisis dataset untuk memahami perilaku pelanggan dan mengidentifikasi fitur kunci yang mempengaruhi churn.
+4. **Model Evaluation**: Melatih dan mengevaluasi beberapa model klasifikasi, termasuk Naive Bayes, AdaBoost, XGBoost, dan lain sebagainya untuk menentukan yang terbaik.
+5. **Recommendation**: Memberikan rekomendasi berdasarkan hasil evaluasi model untuk mengurangi churn rate customer.
 
 ### Dataset
 
-Dataset yang digunakan untuk proyek ini berisi berbagai atribut pelanggan, termasuk informasi demografis, penggunaan layanan, dan data historis churn. Tujuan utama adalah memprediksi apakah seorang pelanggan akan churn berdasarkan atribut-atribut ini.
+Dataset yang digunakan untuk project ini berisi berbagai profil customer, termasuk informasi penggunaan layanan, demografis customer, dan data historis churn. Tujuan utama adalah memprediksi apakah seorang pelanggan akan churn berdasarkan atribut-atribut ini.
 
 ### Tools and Technologies
 
